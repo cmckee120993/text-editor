@@ -6,7 +6,7 @@ This is a single-page site that functions as a text editor. It runs in your brow
 
 ## Usage
 
-In order to use this text editor, you can go to [Clay's Just another text editor](https://clays-just-another-text-editor.herokuapp.com/). The app is deployed using Heroku and can be installed locally on your machine by clicking "Install". 
+In order to use this text editor, you can go to [Clay's Just another text editor](https://clays-just-another-text-editor.herokuapp.com/). The app is deployed using Heroku and can be installed locally on your machine for offline use by clicking "Install". 
 
  ## Screenshots
 [![JATE in Text Editor (with sample typing) and in Browser (with Header)](./screenshot/jate-screenshot.png)]
